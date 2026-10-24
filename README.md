@@ -11,3 +11,4 @@ Old university coursework and team projects (University of Houston–Downtown), 
 - `nxGraphAlgorithms` — discrete math group project: graph algorithms in Python (from ajpri/nxGraphAlgorithms)
 
 Each folder was imported from its standalone repository at its latest commit; folder-level provenance is in the git history.
+- `thinginternetprotocol` — Thing Internet Protocol (TIP): an open-source smart home protocol, spec v0.05, with a Wyze sample integration, C++ toolkit, and weather station example (from ajpri/thinginternetprotocol)
